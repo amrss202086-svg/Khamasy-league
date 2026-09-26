@@ -1,0 +1,6 @@
+{
+  "name": "دوري الخماسية",
+  "description": "تطبيق متكامل لإدارة دوري كرة القدم الخماسية: المباريات، الترتيب، الحضور والغياب، الهدافين، العقوبات، وإدارة الفرق واللجنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
